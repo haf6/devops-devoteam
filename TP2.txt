@@ -1,0 +1,10 @@
+1. Ecrire un script "script1.sh" qui propose à l'utilisateur de saisir un chiffre
+ce chiffre sera statiquement défini dans le script (exemple: 85).
+En fonction du noombre saisi par l'utilisateur, le script indiquera "c'est plus" ou "c'est moins" jusqu'à ce que chiffre correct soit trouvé
+
+2. Ecrire un script "script2.sh" demandant à l'utilisateur de saisir une url
+le script fera une requête http sur cette url et indiquera dans le terminal 
+ainsi que dans un fichier de log la date, l'url et statut réponse.
+Exemples:
+04/08/2022 http://example.com 200
+04/08/2022 http://example.com/toto 404

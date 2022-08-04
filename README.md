@@ -10,3 +10,4 @@
 - [Linux File Permissions](https://www.pluralsight.com/blog/it-ops/linux-file-permissions)
 - [How to set your $PATH variable in Linux](https://opensource.com/article/17/6/set-path-linux)
 - [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
+- [Unix / Linux - Shell Input/Output Redirections](https://www.tutorialspoint.com/unix/unix-io-redirections.htm)
