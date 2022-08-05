@@ -1,0 +1,15 @@
+*** TP 3 ***
+
+Ecrire un script "tp3.sh" permettant de générer un compte utilisateur.
+Le nom du compte utilisateur sera fourni en argument de ligne de commande.
+
+Le script s'arrêtera avec un retour d'erreur si aucun argument n'a été fourni
+
+Le script téléchargera l'archive suivante:  dans le dossier /tmp
+L'archive sera désarchivée et décompressée dans le home directory de l'utilisateur créé.
+L'utilisateur devra être le propriétaire des fichiers désarchivés
+
+Dans le fichier "user.html"
+La chaîne de caractère "User" devra être remplacée par le nom de l'utilsateur.
+Ce fichier sera copier dans /var/www/html
+
