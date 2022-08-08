@@ -5,7 +5,8 @@ Le nom du compte utilisateur sera fourni en argument de ligne de commande.
 
 Le script s'arrêtera avec un retour d'erreur si aucun argument n'a été fourni.
 
-Le script téléchargera l'archive suivante: https://github.com/cdufour/devops-devoteam/raw/master/tp3-files.zip dans le dossier /tmp
+Le script téléchargera dans le dossier /tmp l'archive suivante: 
+https://github.com/cdufour/devops-devoteam/raw/master/linux-shell/tps/tp3/tp3-files.zip 
 L'archive sera désarchivée/décompressée dans le home directory de l'utilisateur précédemment créé.
 L'utilisateur devra être le propriétaire des fichiers désarchivés.
 

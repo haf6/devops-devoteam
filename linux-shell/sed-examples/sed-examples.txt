@@ -1,0 +1,22 @@
+sed 's/Pineapple/Feta/' toppings.txt
+
+cat toppings.txt
+=> file not updated. could redirect output to file
+
+# in place (no output)
+sed -i 's/Pineapple/Feta/' toppings.txt
+
+
+echo "hello" | sed 's/hello/goodbye/'
+=> output: goodbye
+
+find /etc -type f > paths.txt
+cat paths
+
+# change delimiter (ex: .) to include the slash /. Replace with empy
+sed 's./etc..' paths
+
+# cheatsheet
+https://quickref.me/sed
+
+
