@@ -1,12 +1,12 @@
 *** TP 2 ***
 
-1. Ecrire un script tp2-exo1.py demandant à l'utilisateur se saisir un taux de tva (ex: 20, ou 5.5)
+1. Ecrire un script tp2-exo1.py demandant à l'utilisateur de saisir un taux de tva (ex: 20, ou 5.5)
 Calculer et afficher le prix TTC de tous les prix contenus dans la variable "prices" sur la base du taux fourni par l'utilisateur.
-Le calcul de la tva se obtenu par retour d'une fonction qu'il faudra créer et invoquer.
+Le calcul de la tva est obtenu par retour d'une fonction qu'il faudra créer et invoquer.
 
 prices = [14,100,30,10,8]
 
-2. Ecrire un script tp2-exo2.py demandant à l'utilisateur se saisir un chiffre. 
+2. Ecrire un script tp2-exo2.py demandant à l'utilisateur de saisir un chiffre. 
 Tant que l'utilisateur ne saisit pas la valeur "0", on lui redemande la saisie d'un chiffre.
 En sortie de boucle, on affichera la somme des valeurs saisies ainsi qu'un récapitulatif des valeurs saisies une à une.
 Ex:
@@ -16,7 +16,7 @@ Ex:
 0
 => Somme des valeurs saisies: 20 (15,2,3)
 
-3. Ecrire un script tp2-exo3.py qui afficher les valeurs d'une liste dans l'ordre inverse 
+3. Ecrire un script tp2-exo3.py qui affiche les valeurs d'une liste dans l'ordre inverse 
 list1 = [10, 20, 30, 40, 50]
 
 Sortie attendue:
