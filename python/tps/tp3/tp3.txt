@@ -1,0 +1,19 @@
+*** TP 3 ***
+
+1. Ecrire un script tp3-exo1.py qui produira un dossier flagsBis
+Ce dossier contiendra tous les fichier png situé dans le dossier flags mais
+renommés en ne conservant que les deux premières lettres.
+Ces lettres seront en majuscule.
+ex: 
+  flags/allemagne.png => flagsBis/AL.png
+  flags/belgique.png => flagsBis/BE.png
+Le fichier missing.png devra être ignoré
+Mettre en place une gestion d'erreur
+
+2. Ecrire un script tp3-exo2.py qui, à partir du fichier deniro.csv,
+produira en sortie un fichier deniro-report.txt" 
+Ce fichier affichera les informations suivantes:
+Nom du film le mieux noté
+Nombre de films entre 2000 et 2010
+Mettre en place une gestion d'erreur
+Tip: il existe un module natif "csv"
